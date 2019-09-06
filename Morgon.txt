@@ -1,0 +1,7 @@
+Program FinDag;
+
+run (VaknaUpp.exe) while (sömn > 6h);
+
+run (PathToSchool) while eyes = active;
+
+run(PathToSchool) using (Legs) while (clothes = on); 
